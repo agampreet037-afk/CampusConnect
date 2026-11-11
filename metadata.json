@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Discover your people. Interest-based student networking, discovery, and community platform for college campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
